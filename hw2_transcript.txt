@@ -1,0 +1,32 @@
+Script started on 2023-09-14 23:00:23-06:00 [TERM="linux" TTY="/dev/tty1" COLUMNS="128" LINES="48"]
+[?2004h[nctaylor@nctaylor ntaylor_HW2]$ ./hw2.py 
+[?2004lroot id: 0 groups: root
+bin id: 1 groups: bin
+daemon id: 2 groups: daemon
+adm id: 3 groups: adm
+lp id: 4 groups: lp
+sync id: 5 groups: root
+shutdown id: 6 groups: root
+halt id: 7 groups: root
+mail id: 8 groups: mail
+operator id: 11 groups: root
+games id: 12 groups: users
+ftp id: 14 groups: ftp
+nobody id: 65534 groups: nobody
+systemd-coredump id: 999 groups: systemd-coredump
+dbus id: 81 groups: dbus
+tss id: 59 groups: tss
+sssd id: 998 groups: sssd
+polkitd id: 997 groups: polkitd
+sshd id: 74 groups: sshd
+systemd-oom id: 992 groups: systemd-oom
+nctaylor id: 1000 groups: nctaylor, wheel
+gpanwar id: 1001 groups: gpanwar, wheel
+jim id: 1002 groups: jim
+joe id: 1003 groups: joe
+bob id: 1004 groups: bob
+barbara id: 1005 groups: barbara
+[?2004h[nctaylor@nctaylor ntaylor_HW2]$ exit
+[?2004lexit
+
+Script done on 2023-09-14 23:00:35-06:00 [COMMAND_EXIT_CODE="0"]
